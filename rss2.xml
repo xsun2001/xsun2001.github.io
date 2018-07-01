@@ -8,8 +8,28 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Tue, 20 Mar 2018 15:37:46 GMT</pubDate>
+    <pubDate>Sun, 01 Jul 2018 05:03:37 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>JDK 11 概览</title>
+      <link>https://xsun.io/2018/06/29/jdk11-preview/</link>
+      <guid>https://xsun.io/2018/06/29/jdk11-preview/</guid>
+      <pubDate>Fri, 29 Jun 2018 04:53:15 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;JDK 11 已经刚刚进入&lt;code&gt;Rampdown Phase One&lt;/code&gt;，或者说&lt;code&gt;减速开发第一阶段&lt;/code&gt;。这将意味着主要新特性都已经冻结，以后将没有新的JEP进入JDK
+          
+        
+      
+      </description>
+      
+      <comments>https://xsun.io/2018/06/29/jdk11-preview/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>mathjax-test</title>
