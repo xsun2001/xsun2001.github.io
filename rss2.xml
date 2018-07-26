@@ -8,7 +8,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 04 Jul 2018 04:33:37 GMT</pubDate>
+    <pubDate>Thu, 26 Jul 2018 07:00:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -18,13 +18,8 @@
       <pubDate>Fri, 29 Jun 2018 04:53:15 GMT</pubDate>
       <description>
       
-        
-        
-          
-          
-            &lt;p&gt;JDK 11 已经刚刚进入&lt;code&gt;Rampdown Phase One&lt;/code&gt;，或者说&lt;code&gt;减速开发第一阶段&lt;/code&gt;。这将意味着主要新特性都已经冻结，以后将没有新的JEP进入JDK
-          
-        
+        &lt;p&gt;JDK 11 已经刚刚进入&lt;code&gt;Rampdown Phase One&lt;/code&gt;，或者说&lt;code&gt;减速开发第一阶段&lt;/code&gt;。这将意味着主要新特性都已经冻结，以后将没有新的JEP进入JDK 11。这一阶段将侧重于加强内部稳定性，清理积存的bug和某些小型的增强。&lt;/p&gt;
+&lt;p&gt;身为新的JDK发布计划实施后的第一个长期支持版本(LTS)，JDK 11无疑受到了很多Java程序员的关注。就我而言，JDK 11既有惊喜又稍微有些失望。下面我将给大家带来新版本的大致预览。&lt;/p&gt;
       
       </description>
       
@@ -58,13 +53,7 @@
       <pubDate>Sat, 17 Mar 2018 04:49:42 GMT</pubDate>
       <description>
       
-        
-        
-          
-          
-            &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近我的主力设备更换成了MacBook Pro (15-inch,
-          
-        
+        &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近我的主力设备更换成了MacBook Pro (15-inch, 2017)，初来乍到，发现自己面对着一个完全陌生的系统，根本不知道怎么用。这两万多等东西怎么也不能成为一个摆设吧。经过这几天摸索和踩坑，我在这里稍微总结一下我目前迁移到Mac的经验。&lt;/p&gt;
       
       </description>
       
@@ -98,14 +87,7 @@
       <pubDate>Fri, 27 Jan 2017 15:57:10 GMT</pubDate>
       <description>
       
-        
-        
-          
-          
-            &lt;p&gt;这是我的独立博客xsun.io的第一篇文章。本来计划除夕夜就上线工作，没想到要购买百度云虚拟主机还要进行实名验证，于是推迟了一天。那就用这篇文章来祝贺一下2017新年的到来以及xsun.io的上线，顺便吐吐槽，谈谈理想之类的。&lt;/p&gt;
-&lt;p&gt;2016年对我来说是比较有纪念意
-          
-        
+        &lt;p&gt;这是我的独立博客xsun.io的第一篇文章。本来计划除夕夜就上线工作，没想到要购买百度云虚拟主机还要进行实名验证，于是推迟了一天。那就用这篇文章来祝贺一下2017新年的到来以及xsun.io的上线，顺便吐吐槽，谈谈理想之类的。&lt;/p&gt;
       
       </description>
       
