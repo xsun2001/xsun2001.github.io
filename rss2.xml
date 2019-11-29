@@ -8,8 +8,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 26 Jul 2018 07:00:35 GMT</pubDate>
+    <pubDate>Fri, 29 Nov 2019 08:02:08 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test</title>
+      <link>https://xsun.io/2019/11/29/test/</link>
+      <guid>https://xsun.io/2019/11/29/test/</guid>
+      <pubDate>Fri, 29 Nov 2019 07:50:08 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;Test KaTeX&lt;/p&gt;
+&lt;p class=&quot;katex-block&quot;&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span
+          
+        
+      
+      </description>
+      
+      <comments>https://xsun.io/2019/11/29/test/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>JDK 11 概览</title>
