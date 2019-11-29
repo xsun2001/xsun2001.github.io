@@ -1,80 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
-    
   <url>
     <loc>https://xsun.io/2017/01/27/hello-2017/</loc>
-    <lastmod>2018-07-26T07:01:51.299Z</lastmod>
-    <data>
-        <display>
-        <title>Hello 2017</title>
-        <pubTime>2017-01-27T15:57:10.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://xsun.io/2018/03/20/mathjax-test/</loc>
-    <lastmod>2018-07-26T07:00:48.228Z</lastmod>
-    <data>
-        <display>
-        <title>mathjax-test</title>
-        <pubTime>2018-03-20T15:36:58.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2018-07-26</lastmod>
+  </url>  <url>
     <loc>https://xsun.io/2018/03/17/new-to-macOS/</loc>
-    <lastmod>2018-07-26T07:00:37.848Z</lastmod>
-    <data>
-        <display>
-        <title>Mac迁移指南</title>
-        <pubTime>2018-03-17T04:49:42.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
+    <lastmod>2018-07-26</lastmod>
+  </url>  <url>
     <loc>https://xsun.io/2018/06/29/jdk11-preview/</loc>
-    <lastmod>2018-07-26T07:00:35.617Z</lastmod>
-    <data>
-        <display>
-        <title>JDK 11 概览</title>
-        <pubTime>2018-06-29T04:53:15.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://xsun.io/2018/02/25/hello-world/</loc>
-    <lastmod>2018-02-25T14:33:06.914Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-02-25T14:33:06.914Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
+    <lastmod>2018-07-26</lastmod>
+  </url>
 </urlset>

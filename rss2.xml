@@ -27,57 +27,18 @@
     </item>
     
     <item>
-      <title>mathjax-test</title>
-      <link>https://xsun.io/2018/03/20/mathjax-test/</link>
-      <guid>https://xsun.io/2018/03/20/mathjax-test/</guid>
-      <pubDate>Tue, 20 Mar 2018 15:36:58 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;MathJax-Test&quot;&gt;&lt;a href=&quot;#MathJax-Test&quot; class=&quot;headerlink&quot; title=&quot;MathJax Test&quot;&gt;&lt;/a&gt;MathJax Test&lt;/h1&gt;&lt;script type=&quot;math/tex;
-          
-        
-      
-      </description>
-      
-      <comments>https://xsun.io/2018/03/20/mathjax-test/#disqus_thread</comments>
-    </item>
-    
-    <item>
       <title>Mac迁移指南</title>
       <link>https://xsun.io/2018/03/17/new-to-macOS/</link>
       <guid>https://xsun.io/2018/03/17/new-to-macOS/</guid>
       <pubDate>Sat, 17 Mar 2018 04:49:42 GMT</pubDate>
       <description>
       
-        &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;最近我的主力设备更换成了MacBook Pro (15-inch, 2017)，初来乍到，发现自己面对着一个完全陌生的系统，根本不知道怎么用。这两万多等东西怎么也不能成为一个摆设吧。经过这几天摸索和踩坑，我在这里稍微总结一下我目前迁移到Mac的经验。&lt;/p&gt;
+        &lt;h1 id=&quot;前言&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt; 前言&lt;/h1&gt;
+&lt;p&gt;最近我的主力设备更换成了MacBook Pro (15-inch, 2017)，初来乍到，发现自己面对着一个完全陌生的系统，根本不知道怎么用。这两万多等东西怎么也不能成为一个摆设吧。经过这几天摸索和踩坑，我在这里稍微总结一下我目前迁移到Mac的经验。&lt;/p&gt;
       
       </description>
       
       <comments>https://xsun.io/2018/03/17/new-to-macOS/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://xsun.io/2018/02/25/hello-world/</link>
-      <guid>https://xsun.io/2018/02/25/hello-world/</guid>
-      <pubDate>Sun, 25 Feb 2018 14:33:06 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-          
-        
-      
-      </description>
-      
-      <comments>https://xsun.io/2018/02/25/hello-world/#disqus_thread</comments>
     </item>
     
     <item>
