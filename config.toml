@@ -1,0 +1,42 @@
+base_url = "https://xsun.cc"
+
+compile_sass = true
+build_search_index = true
+
+theme = "radion"
+taxonomies = [
+    {name = "categories", feed = true},
+    {name = "tags", feed = true},
+]
+
+[markdown]
+highlight_code = true
+
+[search]
+index_format = "elasticlunr_json"
+
+[extra]
+radion_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+radion_title = "xsun2001's Blog"
+
+font_cdn = "zeoseven"
+font_name = "Maple Mono NF CN"
+font_id = 442
+
+author = "Chenxi Xu"
+github = "https://github.com/xsun2001"
+codeblock = true
+latex = true
+enable_search = true
+theme = "toggle"
+toc = true
+
+comments = true
+giscus_repo = "xsun2001/xsun2001.github.io"
+giscus_repo_id = "MDEwOlJlcG9zaXRvcnk5OTE5NDMyMg=="
+giscus_data_category = "Comments"
+giscus_data_category_id = "DIC_kwDOBemV0s4Cvf_Y"
