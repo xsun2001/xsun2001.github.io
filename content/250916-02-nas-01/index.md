@@ -1,5 +1,5 @@
 +++
-title = "Play with NAS $ Part 1: Initial configuration"
+title = "Play with NAS - Part 1: Initial configuration"
 date = 2025-09-16
 
 [taxonomies]

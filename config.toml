@@ -25,6 +25,7 @@ radion_title = "xsun2001's Blog"
 
 font_cdn = "zeoseven"
 font_name = "Maple Mono NF CN"
+font_weights = ["main", "bold", "italic"]
 font_id = 442
 
 author = "Chenxi Xu"
